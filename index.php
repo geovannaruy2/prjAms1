@@ -11,7 +11,7 @@
         Insira nota 1: <input type="text" nome = "nota1"><br>
         Insira nota 2: <input type="text" nome = "nota1"><br>
         Insira nota 3: <input type="text" nome = "nota1"><br>
-
+        Insira nota 4: <input type="text" nome = "nota1"><br>
         <input type="submit">
 </body>
 </html>
